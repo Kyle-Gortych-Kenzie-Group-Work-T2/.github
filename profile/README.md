@@ -45,9 +45,7 @@ Members:
 ### :building_construction: About The Orginization :
 
 This Orginization is about blank.
-- <a href="your-gmail-link?">:mailbox:</a> How to reach the maintainer
 
----
 
 ### :hammer_and_wrench: Tools :
 
@@ -62,16 +60,11 @@ This Orginization is about blank.
 <h3 align="center">Languages</h3>
 <div align="center">
   <div>
-    <img src="https://img.shields.io/badge/Python-white?style=plastic&logo=python&logoColor=blue" title="Python" alt="Python" height="30"/>&nbsp;
     <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?&sytle=plastic&logo=java" title="Java" alt="Java" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/Rust-white?style=plastic&logo=Rust&logoColor=red" title="Rust" alt="Rust" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/GoLang-white?style=plastic&logo=go&logoColor=blue" title="Go" alt="Go" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/nix-white?style=plastic&logo=nixos&logoColor=blue" title="nix" alt="nix" height="30"/>&nbsp;
   </div>
   
-  <div>
-    <img src="https://img.shields.io/badge/HTML-white?style=plastic&logo=html5&logoColor=red" title="HTML5" alt="HTML" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/CSS-white?style=plastic&logo=css3&logoColor=blue"  title="CSS3" alt="CSS" height="30"/>&nbsp;
-    <img src="https://img.shields.io/badge/javascript-white?style=plastic&logo=javascript&logoColor=yellow" title="JavaScript" alt="JavaScript" height="30"/>&nbsp;
-  </div>
 </div>
+
+<br>
+
+<a href="your-gmail-link?">:mailbox:</a> How to reach the maintainer
