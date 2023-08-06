@@ -2,4 +2,10 @@
 ## Hi there 👋
 
 ## Intro
-This is an orginization for collabrotive work on term2 
+This is an orginization for collaborative work on term2 
+
+## Maintainer 
+Kyle Gortych
+
+## Collaborators
+blank
