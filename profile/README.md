@@ -17,15 +17,15 @@ Date Created:
 Members:      
 -->
 
+# About The Orginization :building_construction:
+## Kenzie Academy SEBDApr23T2-280 Group
+
 <div id="header" align="center">
-  <img src="" width="512" alt="img">
+  <!-- <img src="" width="512" alt="img"> -->
   <div id="badges">
-    <div>
       <a href="https://github.com/kylegortych">
         <img src="https://img.shields.io/badge/kylegortych-white?style=plastic&logo=&logoColor=blue" height="20" alt="kylegortych"/>
       </a>
-    </div>
-    <div>
       <a href="https://github.com/ashalewis1">
         <img src="https://img.shields.io/badge/ashalewis1-white?style=plastic&logo=&logoColor=blue" height="20" alt="ashalewis1"/>
       </a>
@@ -38,13 +38,11 @@ Members:
       <a href="https://github.com/molliver">
         <img src="https://img.shields.io/badge/molliver-white?style=plastic&logo=" height="20" alt="molliver"/>
       </a>
-    </div>
-  <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/KyleGortych/KyleGortych/main/waving.webp" width="40"></h1>
 </div>
 
-### :building_construction: About The Orginization :
 
-This Orginization is about blank.
+
+
 
 
 ### :hammer_and_wrench: Tools :
