@@ -17,7 +17,7 @@ Date Created:
 Members:      
 -->
 
-# About The Orginization :building_construction:
+# About The Organization :building_construction:
 ## Kenzie Academy SEBDApr23T2-280 Group
 
 <div id="header" align="center">
@@ -40,29 +40,23 @@ Members:
       </a>
 </div>
 
-
-
-
-
+---
+<br>
 
 ### :hammer_and_wrench: Tools :
 
-<h3 align="center">Version Control</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=red" title="Git" alt="Git" height="30"/>
-</div>
-
-<br>
-
-<h3 align="center">Languages</h3>
-<div align="center">
-  <div>
-    <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?&sytle=plastic&logo=java" title="Java" alt="Java" height="30"/>&nbsp;
-  </div>
-  
-</div>
-
+<table>
+    <tr>
+        <td>
+            <h3>Version Control</h3>
+            <img src="https://img.shields.io/badge/Git-white?style=plastic&logo=git&logoColor=red" title="Git" alt="Git" height="30"/>
+        </td>
+        <td>
+            <h3>Languages</h3>
+            <img src="https://custom-icon-badges.demolab.com/badge/Java-white.svg?&sytle=plastic&logo=java" title="Java" alt="Java" height="30"/>
+        </td>
+    </tr>
+</table>
 <br>
 
 <a href="your-gmail-link?">:mailbox:</a> How to reach the maintainer
