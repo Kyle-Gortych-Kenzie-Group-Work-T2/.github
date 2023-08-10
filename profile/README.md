@@ -17,8 +17,6 @@ Date Created:
 Members:      
 -->
 
-{::options auto_ids="false" /}
-
 # About The Organization :building_construction:
 ## Kenzie Academy SEBDApr23T2-280 Group
 
