@@ -49,7 +49,7 @@ Members:
 </div>
 
 <div align="left">
-    The group work is comprised of gradle projects. Each repo is based on a per week basis. On completion of term work, entire project structure will be merged to the main branch for all repos.
+    The group work is comprised of gradle projects. Each repo is based on a per week basis. On completion of term work, entire project structure will be merged to the main branch for all repos. Some work is done to utilize contract driven design however, unit testing via the projects root markdown will be the main process of task completion. 
 </div>
 
 <br>
