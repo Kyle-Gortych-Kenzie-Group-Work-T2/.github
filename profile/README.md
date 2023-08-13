@@ -17,9 +17,7 @@ Date Created:
 Members:      
 -->
 
-# About The Organization :building_construction:
-## Kenzie Academy SEBDApr23T2-280 Group
-
+# Kenzie SEBDApr23T2-280 Group
 <div id="header" align="center">
   <!-- <img src="" width="512" alt="img"> -->
   <div id="badges">
@@ -46,8 +44,30 @@ Members:
       </a>
 </div>
 
----
+<div align="left">
+    <h2>About The Organization :building_construction:</h2>
+</div>
+
+<div align="left">
+    The group work is comprised of gradle projects. Each repo is based on a per week basis. On completion of term work, entire project structure will be merged to the main branch for all repos.
+</div>
+
 <br>
+
+<div align="left">
+<details>
+    <summary>Member Instructs</summary>
+
+- git clone repo
+- git status
+- git branch "lists branches"
+- git branch BranchName "creates branch"
+- git checkout BranchName "switches to branch"
+- git add file
+- git commit -m "commit message"
+- git push origin BranchName
+</details>
+</div>
 
 ### :hammer_and_wrench: Tools :
 
