@@ -39,9 +39,6 @@ Members:
       <a href="https://github.com/igrin89">
         <img src="https://img.shields.io/badge/igrin89-white?style=plastic&logo=" height="20" alt="igrin89"/>
       </a>
-      <a href="https://github.com/dereck-weaver">
-        <img src="https://img.shields.io/badge/dereckweaver-white?style=plastic&logo=" height="20" alt="dereck-weaver"/>
-      </a>
 </div>
 
 <div align="left">
