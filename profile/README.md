@@ -30,6 +30,9 @@ Members:
       <a href="https://github.com/nancyurciuoli">
         <img src="https://img.shields.io/badge/nancyurciuoli-white?style=plastic&logo=" height="20" alt="nancyurciuoli"/>
       </a>
+       <a href="https://github.com/imskiboski">
+        <img src="https://img.shields.io/badge/imskiboski-white?style=plastic&logo=" height="20" alt="imskiboski"/>
+      </a>
       <a href="https://github.com/egrok99">
         <img src="https://img.shields.io/badge/egrok99-white?style=plastic&logo=" height="20" alt="egrok99"/>
       </a>
