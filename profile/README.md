@@ -79,6 +79,18 @@ Members:
 </details>
 </div>
 
+<div align="left">
+<details>
+    <summary>Maintainer Instructs</summary>
+
+While on main branch to cherry-pick
+- git fetch
+- git log origin/branchName
+- git 
+</details>
+</div>
+
+
 <div align="center">
     
 ### :bar_chart: Repo status
