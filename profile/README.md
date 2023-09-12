@@ -101,6 +101,7 @@ While on main branch to cherry-pick
 ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week5GroupWork/main.yml?label=Week%205)
 ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/main.yml?label=Week%206)
 ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week7GroupWork/main.yml?label=Week%207)
+![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week8GroupWork/main.yml?label=Week%208)
 
 </div>
 
