@@ -84,12 +84,13 @@ Members:
 ### :bar_chart: Repo status
  
 ![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week2GroupWork/main.yml?label=Week%202)
-![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week3GroupWork/main.yml?label=Week%203)
-![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week4GroupWork/main.yml?label=Week%204)
-![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week5GroupWork/main.yml?label=Week%205)
-![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/main.yml?label=Week%206)
-![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week7GroupWork/main.yml?label=Week%207)
-![week 2](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week8GroupWork/main.yml?label=Week%208)
+![week 3](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week3GroupWork/main.yml?label=Week%203)
+![week 4](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week4GroupWork/main.yml?label=Week%204)
+![week 5](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week5GroupWork/main.yml?label=Week%205)
+![week 6](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week6GroupWork/main.yml?label=Week%206)
+![week 7](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week7GroupWork/main.yml?label=Week%207)
+![week 8](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week8GroupWork/main.yml?label=Week%208)
+![week 10](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week10GroupWork/main.yml?label=Week%2010)
 
 </div>
 
