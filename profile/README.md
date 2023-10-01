@@ -91,6 +91,7 @@ Members:
 ![week 7](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week7GroupWork/main.yml?label=Week%207)
 ![week 8](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week8GroupWork/main.yml?label=Week%208)
 ![week 10](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week10GroupWork/main.yml?label=Week%2010)
+![week 11](https://img.shields.io/github/actions/workflow/status/Kyle-Gortych-Kenzie-Group-Work-T2/Week11GroupWork/main.yml?label=Week%2011)
 
 </div>
 
