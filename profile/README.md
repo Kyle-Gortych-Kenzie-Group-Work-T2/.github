@@ -39,6 +39,9 @@ Members:
       <a href="https://github.com/molliver">
         <img src="https://img.shields.io/badge/molliver-white?style=plastic&logo=" height="20" alt="molliver"/>
       </a>
+      <a href="https://github.com/meazaberhe24">
+        <img src="https://img.shields.io/badge/meazaberhe24-white?style=plastic&logo=" height="20" alt="meazaberhe24"/>
+      </a>
       <a href="https://github.com/igrin89">
         <img src="https://img.shields.io/badge/igrin89-white?style=plastic&logo=" height="20" alt="igrin89"/>
       </a>
